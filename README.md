@@ -1,2 +1,2 @@
-# qiskit
-quantum experiments using qiskit
+# Qiskit
+Fun quantum experiments, circuits, and simulations using IBMs Qiskit SDK. 
